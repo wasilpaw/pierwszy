@@ -1,2 +1,4 @@
 # pierwszy
 test repo
+
+zaczynamy
